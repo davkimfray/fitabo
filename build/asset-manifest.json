@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76c805d6.chunk.css",
+    "main.js": "/static/js/main.4dd96b5d.chunk.js",
+    "main.js.map": "/static/js/main.4dd96b5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d9f8e9c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d9f8e9c.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.9a3ac998.chunk.js": "/static/js/2.9a3ac998.chunk.js",
+    "static/js/2.9a3ac998.chunk.js.map": "/static/js/2.9a3ac998.chunk.js.map",
+    "static/js/3.65ba4d67.chunk.js": "/static/js/3.65ba4d67.chunk.js",
+    "static/js/3.65ba4d67.chunk.js.map": "/static/js/3.65ba4d67.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.76c805d6.chunk.css.map": "/static/css/main.76c805d6.chunk.css.map",
+    "static/js/2.9a3ac998.chunk.js.LICENSE.txt": "/static/js/2.9a3ac998.chunk.js.LICENSE.txt",
+    "static/media/GlobalStyles.css": "/static/media/Steinerlight.3a0d7821.ttf",
+    "static/media/landing.css": "/static/media/bg.87837956.svg",
+    "static/media/community.4d36f950.png": "/static/media/community.4d36f950.png",
+    "static/media/contact.20895f2e.png": "/static/media/contact.20895f2e.png",
+    "static/media/habits.ea5b4cbd.png": "/static/media/habits.ea5b4cbd.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/mobile gym.fc156b12.png": "/static/media/mobile gym.fc156b12.png",
+    "static/media/work with fitabo.4bbf4c32.png": "/static/media/work with fitabo.4bbf4c32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d9f8e9c.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.9a3ac998.chunk.js",
+    "static/css/main.76c805d6.chunk.css",
+    "static/js/main.4dd96b5d.chunk.js"
+  ]
+}
