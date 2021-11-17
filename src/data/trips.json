@@ -1,0 +1,29 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Tian 1 Buddha",
+        "name": "Tian 1 Buddha",
+        "button": "View Destination"
+    },
+
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Tian 2 Buddha",
+        "name": "Tian 2 Buddha",
+        "button": "View Destination"
+    },
+
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Tian 3 Buddha",
+        "name": "Tian 3 Buddha",
+        "button": "View Destination"
+    },
+
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Tian 4 Buddha",
+        "name": "Tian 4 Buddha",
+        "button": "View Destination"
+    }
+]

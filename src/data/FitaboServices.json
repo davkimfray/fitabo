@@ -1,0 +1,26 @@
+[
+  {
+    "id": "serv1",
+    "title": "Meet your mobile gym",
+    "details": "Do you want to lose weight, stay in shape or learn other fitness sports? Fitabo links you with certified and of a high standard trainers who can help you reach your goals",
+    "img": "../assets/images/mobile gym.png"
+  },
+  {
+    "id": "serv2",
+    "title": "Work with Fitabo",
+    "details": "For fitness trainers and sport coaches, are you looking for individuals to train? Well! Fitabo has a great way of linking you with those who are in need",
+    "img": "../assets/images/work with fitabo.png"
+  },
+  {
+    "id": "serv3",
+    "title": "Create healthy habits",
+    "details": "Psychology says that humans are the creatures of their own habits and your habits create the person you will become. Fitabo will help you choose your habits reasonably",
+    "img": "../assets/images/habits.png"
+  },
+  {
+    "id": "serv4",
+    "title": "Join a community",
+    "details": "Fitabo will introduce you to other Fitabo users from around the world venturing on the journey as you",
+    "img": "../assets/images/community.png"
+  }
+]

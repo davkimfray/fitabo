@@ -1,0 +1,206 @@
+.contact{
+    width: inherit;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: space-evenly;
+    align-items: center;
+    background: url("../assets/images/contact-wave.png") top no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 0rem calc((100vw - 1300px) / 3);
+
+}
+
+.contact img{
+    width: 100%;
+}
+.contact h1{
+    font-size: clamp(2rem, 6vw, 3rem);
+    color: #fff;
+    padding: 24px 24px 0 24px;
+}
+.rows{
+    width: inherit;
+    display: grid;
+    padding: 16px;
+    grid-template-columns: 1fr;
+    justify-content: space-between;
+}
+.rows button{
+    background-color: #fff;
+    padding: 16px 24px;
+    border-radius: 12px;
+    font-size: 18px;
+    margin: 0 auto 24px auto;
+    color: #180d31;
+    outline: none;
+    border: none;
+
+}
+.rows button:hover{
+    cursor: pointer;
+    background-color: #A3A1D0;
+    margin-top: -5px;
+    -webkit-transition: all 0.225s ease-in-out;
+    transition: all 0.225s ease-in-out;
+}
+.contact-info div{
+    display: flex;
+    align-items: center;
+    color: #A3A1D0;
+    font-size: 18px;
+    align-items: center;
+}
+.contact-info span{
+    font-size: 32px;
+    padding: 0 16px 8px 0;
+}
+.form-group div{
+    width: 100%;
+    display: flex;
+}
+.contact input, textarea{
+    position: relative;
+    width: 100%;
+    background-color: #A3A1D0;
+    padding: 16px;
+    margin: 12px auto;
+    border: none;
+    border-radius: 4px;
+    opacity: 1;
+    font-size: 1rem;
+  }
+
+ input:focus, textarea:focus {
+    /* font-size: 0.75em; */
+    color: #180d43;
+    top: -5px;
+    -webkit-transition: all 0.225s ease-in-out;
+    transition: all 0.225s ease-in-out;
+    outline: #999;
+}
+
+
+@media only screen and (min-width: 768px){
+    .contact{
+        padding: 0rem calc((100vw - 700px) / 3);    
+    }
+    .contact img{
+        width: 90%;
+    }
+    .rows{
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 24px;
+    }
+}
+
+
+
+@media only screen and (min-width: 900px){
+    .contact{
+        padding: 0rem calc((100vw - 700px) / 3);    
+    }
+    .contact img{
+        width: 90%;
+    }
+}
+
+
+
+@media only screen and (min-width: 1200px){
+    .contact{
+        grid-template-columns: 1fr 1fr;
+        padding: 0rem calc((100vw - 1300px) / 3);
+        padding-top: 9rem!important;
+    
+    }
+    .contact img{
+        width: 90%;
+    }
+    .rows{
+        width: inherit;
+        display: grid;
+        padding: 16px;
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: space-between;
+        grid-gap: 24px;
+    }
+}
+
+/* .styled-input label {
+    color: #999;
+    padding: 1.3rem 30px 1rem 30px;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    pointer-events: none;
+    background-color: #627596;
+    border-radius: 12px;
+min-width: 275px;}
+
+.styled-input.wide { 
+    width: 650px;
+    max-width: 100%;
+} */
+
+/* .input {
+    padding: 30px;
+    border: 0;
+    width: 275px;
+    font-size: 1rem;
+    background-color: #A3A1D0;
+    color: white;
+    border-radius: 4px;
+ }  */
+/*  */
+/* input:focus,
+textarea:focus { outline: 0; }
+
+input:focus ~ span,
+textarea:focus ~ span {
+    width: 100%;
+    -webkit-transition: all 0.075s ease;
+    transition: all 0.075s ease;
+}
+
+textarea {
+    width: 100%;
+    min-height: 15em;
+}
+
+.input-container {
+    width: 650px;
+    max-width: 100%;
+    margin: 20px auto 25px auto;
+}
+
+.submit-btn {
+    /* float: right; */
+    /* padding: 7px 35px;
+    border-radius: 60px;
+    display: inline-block;
+    background-color: #4b8cfb;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.06),
+              0 2px 10px 0 rgba(0,0,0,0.07);
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+} */
+
+/* .submit-btn:hover {
+    transform: translateY(1px);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.10),
+              0 1px 1px 0 rgba(0,0,0,0.09);
+}
+
+@media (max-width: 768px) {
+    .submit-btn {
+        width:100%;
+        float: none;
+        text-align:center;
+    }
+} */

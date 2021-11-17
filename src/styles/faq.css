@@ -1,0 +1,111 @@
+.faq-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.faq-wrapper > h1 {
+  width: 90%;
+  padding-bottom: 48px;
+  font-size: clamp(2rem, 5vw, 3rem);
+}
+.faq-wrapper > div {
+  position: relative;
+  /* margin: 0 16px; */
+  width: 90%;
+}
+
+input {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  visibility: 0;
+}
+
+.faq-wrapper > div > h2 {
+  position: relative;
+  display: block;
+  background-color: #180d43;
+  color: #fff;
+  border-radius: 12px;
+  z-index: 3;
+  /* font-size: 2.5vw; */
+}
+.faq-wrapper > div > h2 > label::after {
+  content: "\276F";
+  width: 28px;
+  /* height: 56px; */
+  text-align: center;
+  /* margin-top: -42px; */
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.faq-wrapper > div > h2 > label {
+  /* min-height: 68px; */
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  padding: 18px;
+  align-items: center;
+  justify-content: space-between;
+  -webkit-box-pack: justify;
+}
+
+.ans {
+  max-height: 0;
+  overflow: hidden;
+  transform: translateY(-3rem);
+  background-color: #a3a1d0;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  transition: all 0.5s;
+  transition-timing-function: cubic-bezier(0.7, 0.2, 3, 0.2);
+  padding: 18px;
+}
+
+.ans p {
+  /* font-size: 1.5vw; */
+  padding: 4px;
+}
+.ans ul{
+  margin-left: 18px;
+}
+input:checked ~ .heading > label::after {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+input:checked ~ .ans {
+  max-height: 1000px;
+  transform: translateY(0);
+  margin: 1rem 0;
+}
+
+@media screen and (min-width: 768px) {
+  .faq-wrapper {
+    padding: 0 calc((100vw - 700px) / 2);
+  }
+  .ans {
+    font-size: clamp(1rem, 3vw, 2rem);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .faq-wrapper {
+    padding: 0 calc((100vw - 900px) / 2);
+  }
+  .faq-wrapper > div > h2 {
+    font-size: clamp(1rem, 3vw, 2rem);
+  }
+  .faq-wrapper > div > h2 > label {
+    padding: 24px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .faq-wrapper {
+    padding: 0 calc((100vw - 1200px) / 3);
+  }
+}
