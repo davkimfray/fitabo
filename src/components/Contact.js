@@ -105,7 +105,7 @@ export default function Contact() {
             <div>
              <span><ImLocation/></span>
 <p>
-              Mikocheni, Dar es Salaam
+              Masaki, Dar es Salaam
             </p>  
             </div>
           </div>

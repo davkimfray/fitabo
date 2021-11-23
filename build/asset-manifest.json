@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fitabo/static/css/main.d7df320b.chunk.css",
-    "main.js": "/fitabo/static/js/main.a882c057.chunk.js",
-    "main.js.map": "/fitabo/static/js/main.a882c057.chunk.js.map",
+    "main.css": "/fitabo/static/css/main.e310c052.chunk.css",
+    "main.js": "/fitabo/static/js/main.61222f95.chunk.js",
+    "main.js.map": "/fitabo/static/js/main.61222f95.chunk.js.map",
     "runtime-main.js": "/fitabo/static/js/runtime-main.b90717d8.js",
     "runtime-main.js.map": "/fitabo/static/js/runtime-main.b90717d8.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/fitabo/static/css/2.7fc9bc2b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.4a9933cb.chunk.js.map": "/fitabo/static/js/3.4a9933cb.chunk.js.map",
     "index.html": "/fitabo/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/fitabo/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.d7df320b.chunk.css.map": "/fitabo/static/css/main.d7df320b.chunk.css.map",
+    "static/css/main.e310c052.chunk.css.map": "/fitabo/static/css/main.e310c052.chunk.css.map",
     "static/js/2.6e7c4008.chunk.js.LICENSE.txt": "/fitabo/static/js/2.6e7c4008.chunk.js.LICENSE.txt",
     "static/media/GlobalStyles.css": "/fitabo/static/media/Steinerlight.3a0d7821.ttf",
     "static/media/landing.css": "/fitabo/static/media/bg.e3ebf8f4.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.b90717d8.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.6e7c4008.chunk.js",
-    "static/css/main.d7df320b.chunk.css",
-    "static/js/main.a882c057.chunk.js"
+    "static/css/main.e310c052.chunk.css",
+    "static/js/main.61222f95.chunk.js"
   ]
 }

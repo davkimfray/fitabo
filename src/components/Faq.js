@@ -9,12 +9,12 @@ export default function Faq() {
      data-aos-duration="500" className="qn-wrapper">
         <input type="checkbox" id="faq-1" />
         <h2 className="heading">
-          <label for="faq-1">1. What is Fitabo?</label>
+          <label for="faq-1">1. What is fitabo?</label>
         </h2>
         <div className="ans">
           <p>
-            Fitabo is a mobile gym that visits your home, workplace, or other
-            creative spaces to provide you with fitness sessions.
+          Fitabo is an online platform that connects
+fitness, sports, and gym enthusiasts together.
           </p>
         </div>
       </div>
@@ -23,7 +23,7 @@ export default function Faq() {
      data-aos-duration="500" className="qn-wrapper">
         <input type="checkbox" id="faq-2" />
         <h2 className="heading">
-          <label for="faq-2">2. Who is Fitabo for?</label>
+          <label for="faq-2">2. Who is fitabo for?</label>
         </h2>
         <div className="ans">
           <p>
@@ -49,7 +49,7 @@ export default function Faq() {
           <label for="faq-3">3. How does fitabo work?</label>
         </h2>
         <div className="ans">
-          <p>Fitabo categorizes its users in two groups.</p>
+          <p>fitabo categorizes its users in two groups.</p>
           <p>
             <strong>1. Primary Users:</strong> Those who are looking for fitness
             sessions and they need a trainer who can help them reach their
@@ -58,11 +58,11 @@ export default function Faq() {
           <h3>How does it work?</h3>
           <ul>
             <li>
-              Fitabo trainers visit your home, workspace, or other creative
+              fitabo trainers visit your home, workspace, or other creative
               spaces on your schedule.
             </li>
             <li>
-              Fitabo trainer will maximize the minimum time you have available
+              fitabo trainer will maximize the minimum time you have available
               to make a fitness session part of your schedule and goals.
             </li>
             <li>
@@ -73,7 +73,7 @@ export default function Faq() {
           <p>
             <strong>2. Secondary Users: </strong>Those who are looking for
             individuals to train. If you are a fitness coach, personal trainer
-            and you know that you can handle training others, Fitabo gives you
+            and you know that you can handle training others, fitabo gives you
             an opportunity to do so but with certification.
           </p>
         </div>
@@ -84,12 +84,12 @@ export default function Faq() {
         <input type="checkbox" id="faq-4" />
         <h2 className="heading">
           <label for="faq-4">
-            4. What fitness sessions can I provide as a Fitabo trainer?
+            4. What fitness sessions can I provide as a fitabo trainer?
           </label>
         </h2>
         <div className="ans">
           <p>
-            Fitabo coach or personal trainer is allowed to train anything
+            fitabo coach or personal trainer is allowed to train anything
             related to fitness or sport as long as it’s a request from the
             customer and there&#39;s a good agreement between the two of them.
           </p>
@@ -100,11 +100,11 @@ export default function Faq() {
      data-aos-duration="500"  className="qn-wrapper">
         <input type="checkbox" id="faq-5" />
         <h2 className="heading">
-          <label for="faq-5">5. Do I pay to use Fitbo?</label>
+          <label for="faq-5">5. Do I pay to use fitabo?</label>
         </h2>
         <div className="ans">
           <p>
-            Yes, we do charge 5 dollars to every Fiabo primary user and we do
+            Yes, we do charge 5 dollars to every fitabo primary user and we do
             take 30% of the money from every sale commision from a trainer.
           </p>
         </div>
