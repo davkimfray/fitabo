@@ -11,8 +11,9 @@ export default function FitaboServices() {
   const fitaboServices = [
     {
       "id": "serv1",
-      "title": "Meet your mobile gym",
-      "details": "Do you want to lose weight, stay in shape or learn other fitness sports? Fitabo links you with certified and of a high standard trainers who can help you reach your goals",
+      "title": "Meet your fitness pal",
+      "details": "Trying to lose weight, stay in shape, or learn other fitness sports for your overall health? Fitabo give you the right trainers who can help you achieve your goals",
+      // "details": "Do you want to lose weight, stay in shape or learn other fitness sports? Fitabo links you with certified and of a high standard trainers who can help you reach your goals",
       "img": mobileGym
     },
     {
@@ -29,7 +30,7 @@ export default function FitaboServices() {
     },
     {
       "id": "serv4",
-      "title": "Join a community",
+      "title": "Join a Community",
       "details": "Fitabo will introduce you to other Fitabo users from around the world venturing on the same journey as you",
       "img": community
     }

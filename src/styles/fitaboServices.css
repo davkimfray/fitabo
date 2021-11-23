@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Katibeh&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 .serviceWrapper {
   padding: 80px 0;
   /* margin: 0; */
@@ -22,16 +22,17 @@
   justify-self: center;
   text-align: center;
   padding: 24px 0;
-  font-family: "Katibeh", cursive;
+  font-family: "Katibeh", cursive; 
 
 }
 .details h2 {
   font-size: clamp(3rem, 5vw, 5.5rem);
-  font-weight: bold;
-  padding-bottom: -24px;
-  /* font-family: "Steiner", cursive; */
+  padding-bottom: 24px;
+  font-family: "Inter", sans-serif;
   /* font-family: "Katibeh", cursive; */
-  letter-spacing: 2px;
+    /* font-weight: lighter; */
+letter-spacing: 2px;
+  /* text-transform: capitalize; */
 
 }
 .details p {
@@ -40,6 +41,9 @@
   line-height: 24px;
   font-size: clamp(1rem, 5vw, 2rem);
   /* font-family: "Roboto", cursive; */
+  font-family: "Inter"; 
+  font-weight: 200;
+
 }
 
 @media screen and (min-width: 768px) {

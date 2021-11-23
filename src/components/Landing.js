@@ -240,8 +240,7 @@ export default function Landing() {
                     <h2 data-aos="fade-in-left" data-aos-easing="ease-out-cubic"
      data-aos-duration="2000" data-aos-delay="1000">Your Fitness Pal </h2>
                     <p data-aos="zoom-in" data-aos-easing="ease-out-cubic"
-     data-aos-duration="1000">…a mobile gym that visits your home, workplace,
-or other creative spaces to provide you with fitness sessions.</p>
+     data-aos-duration="1000">An online platform that connects <br/> fitness, sports, and gym enthusiasts together.</p>
                     {/* <Button primary="true" round="true" big="true" to="/trip">Travel Now</Button> */}
                 </div>
             </div>

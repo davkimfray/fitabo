@@ -32,8 +32,8 @@
 .bg{
     position: absolute;
     width: 100%;
-    top: 30%;
-    height: 70%;
+    top: 35%;
+    height: 65%;
     background: url("../assets/images/bg.png") top no-repeat;
     background-size: cover;
 }
@@ -92,7 +92,7 @@ svg{
     font-size: clamp(3rem, 14vw, 9rem);
     letter-spacing: 24px;
     padding-left: 24px;
-    margin: -15rem auto 1.5rem auto;
+    margin: -20rem auto 1.5rem auto;
     font-family: 'Steiner';
     /* // @media screen and (max-width: 768px){
     //     margin-top: -15rem;
@@ -109,7 +109,7 @@ font-family: 'Steiner';
 }
 
 .items p{
-    width: 80%;
+    /* width: 80%; */
     padding: 0 calc((100vw - 1200px) / 4);
 font-size: clamp(1rem, 4vw, 2rem);
 margin-bottom: 2rem; 
