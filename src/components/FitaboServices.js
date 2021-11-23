@@ -30,7 +30,7 @@ export default function FitaboServices() {
     {
       "id": "serv4",
       "title": "Join a community",
-      "details": "Fitabo will introduce you to other Fitabo users from around the world venturing on the journey as you",
+      "details": "Fitabo will introduce you to other Fitabo users from around the world venturing on the same journey as you",
       "img": community
     }
   ]

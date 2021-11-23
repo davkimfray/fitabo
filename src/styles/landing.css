@@ -34,7 +34,7 @@
     width: 100%;
     top: 30%;
     height: 70%;
-    background: url("../assets/images/bg.svg") bottom no-repeat;
+    background: url("../assets/images/bg.png") top no-repeat;
     background-size: cover;
 }
 /* 
@@ -109,7 +109,7 @@ font-family: 'Steiner';
 }
 
 .items p{
-    /* width: 95%; */
+    width: 80%;
     padding: 0 calc((100vw - 1200px) / 4);
 font-size: clamp(1rem, 4vw, 2rem);
 margin-bottom: 2rem; 
